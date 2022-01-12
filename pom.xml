@@ -5,7 +5,7 @@
         <groupId>gov.nsa.datawave.microservice</groupId>
         <artifactId>datawave-microservice-parent</artifactId>
         <version>1.8</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <artifactId>metrics-reporter</artifactId>
     <version>1.4-SNAPSHOT</version>
@@ -25,7 +25,7 @@
     <properties>
         <version.commons-io>2.6</version.commons-io>
         <version.dropwizard-metrics>4.1.2</version.dropwizard-metrics>
-        <version.httpclient>4.5.10</version.httpclient>
+        <version.httpclient>4.5.13</version.httpclient>
         <version.javastatsd>3.1.0</version.javastatsd>
     </properties>
     <dependencyManagement>
